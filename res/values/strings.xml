@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">ARProject</string>
+	<string name="action_settings">Settings</string>
+	<string name="hello_world">Hello world!</string>
+	<string name="friend_place">Set friend place</string>
+	<string name="friend_create">Create friend</string>
+	<string name="create_contact">Create new contact</string>
+	<string name="edit_contact">Edit contact</string>
+</resources>
